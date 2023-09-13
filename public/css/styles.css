@@ -3,7 +3,16 @@
 body {
   margin: 0;
   font-family: "Poppins";
+  background-image: linear-gradient(to right, red , yellow);
 }
+
+
+#Magnus {
+  font-style: italic;
+  font-weight: 400;
+  color: greenyellow;
+}
+
 ul, li {
   padding: 0;
   list-style-type: none;
